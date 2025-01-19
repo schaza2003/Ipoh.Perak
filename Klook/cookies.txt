@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.klook.com	TRUE	/	FALSE	1999999999	locale	en-us
+www.klook.com	TRUE	/	FALSE	1999999999	kepler_id	5c3d3fb0-1359-4d56-99f0-2dbc87e623f5
+www.klook.com	TRUE	/	FALSE	1999999999	klk_currency	MYR
+www.klook.com	TRUE	/	FALSE	1999999999	klk_rdc	MY
+

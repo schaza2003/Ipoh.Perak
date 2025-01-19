@@ -1,0 +1,1 @@
+!function(e){"function"==typeof define&&define.amd?define(e):e()}((function(){"use strict";window.precolletion=[],["error","unhandledrejection"].forEach((e=>{window.addEventListener(e,(function(n){window.precolletion.push({eventName:e,event:n})}))}))}));
